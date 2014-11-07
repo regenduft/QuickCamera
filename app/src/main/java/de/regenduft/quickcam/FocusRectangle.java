@@ -5,7 +5,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import de.regenduft.quickcam.R;
 
-class FocusRectangle extends View {
+public class FocusRectangle extends View {
 
     @SuppressWarnings("unused")
     private static final String TAG = "FocusRectangle";

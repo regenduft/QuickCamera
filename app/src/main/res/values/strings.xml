@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, QuickCameraActivity!</string>
+    <string name="app_name">QuickCamera</string>
+    <string-array name="shutterSounds">
+        <item>OFF</item>
+        <item>ON</item>
+        <item>LOW</item>
+        <item>CLICK</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="Application Setting" android:key="appsettings">
+    		<CheckBoxPreference android:key="useGps"
+							android:title="Enable GPS" 
+							android:summary="Use GPS (if enabled) or network location to tag pictures." />		
+		<ListPreference android:key="shutterSound"
+						android:title="Enable Shutter Sound" 
+						android:summary="Select a shutter sound"
+						android:entries="@array/shutterSounds"
+						android:entryValues="@array/shutterSounds"
+						android:dialogTitle="Select a shutter sound" />
+	</PreferenceCategory>
+	<PreferenceCategory android:title="Camera Settings" android:key="camerasettings">
+	</PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainView"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="fill"
+    android:baselineAligned="true"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/spacerLeft"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:baselineAligned="true"
+        android:isScrollContainer="true"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/cameraFrame"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+        
+	   <SurfaceView
+	       android:id="@+id/cameraView"
+	       android:layout_width="wrap_content"
+	       android:layout_height="wrap_content" />
+	   
+	   <de.regenduft.quickcam.FocusRectangle
+	       android:id="@+id/focusView"
+	       android:layout_width="fill_parent"
+	       android:layout_height="wrap_content" />
+    
+    </FrameLayout>
+    
+    <LinearLayout
+        android:id="@+id/spacerRight"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:baselineAligned="true"
+        android:isScrollContainer="true"
+        android:orientation="vertical" >
+    </LinearLayout>
+    
+</LinearLayout>

@@ -8,3 +8,7 @@ Features:
  - touch screen to focus, release to take the picture
  - gps / location support
  - mute / change shutter sound
+
+Download:
+
+https://github.com/regenduft/QuickCamera/blob/master/app/QuickCamera.apk

@@ -5,7 +5,7 @@ Android Application to quickly take a picture.
 
 Features:
  - simple to use
- - very small, starts quickly
+ - very small (45KB), starts quickly
  - touch screen to focus, release to take the picture
  - gps / location support
  - mute / change shutter sound

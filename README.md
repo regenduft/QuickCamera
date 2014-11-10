@@ -14,11 +14,11 @@ Features:
 
 Download:
 
-https://github.com/regenduft/QuickCamera/blob/master/app/QuickCamera.apk
+- https://github.com/regenduft/QuickCamera/blob/master/app/QuickCamera.apk
 
 Known Issues:
 
-Very rarely crashes without releasing camera hardware - you'll need to restart your phone
+- Very rarely crashes without releasing camera hardware - you'll need to restart your phone
 
 Alternatives:
 

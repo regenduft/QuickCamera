@@ -7,6 +7,7 @@ Features:
  - simple to use
  - very small (45KB), starts quickly
  - touch screen to focus, release to take the picture
+ - move finger (touching screen) to the border, to cancel picture taking
  - gps / location support
  - mute / change shutter sound
  - configure picture size, quality and flash

@@ -14,7 +14,7 @@ Features:
 
 Download:
 
-- https://github.com/regenduft/QuickCamera/blob/master/app/QuickCamera.apk
+- https://github.com/regenduft/QuickCamera/raw/master/app/QuickCamera.apk
 
 Known Issues:
 

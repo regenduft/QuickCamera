@@ -10,6 +10,7 @@ Features:
  - gps / location support
  - mute / change shutter sound
  - configure picture size, quality and flash
+ - no internet permission
  - supports all android starting with version 2.3
 
 Download:

@@ -31,5 +31,5 @@ The author of this app currently uses
 - Fast Camera Pro https://play.google.com/store/apps/details?id=com.erez.fastcamerapro 
 - with a MiKey and the app 
 - Key Cut https://play.google.com/store/apps/details?id=com.lennox.keycut
-- 
+
 to take quick pictures and snapshots

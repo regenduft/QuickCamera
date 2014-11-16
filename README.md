@@ -18,10 +18,6 @@ Download:
 
 - https://github.com/regenduft/QuickCamera/raw/master/app/QuickCamera.apk
 
-Known Issues:
-
-- Very rarely crashes without releasing camera hardware - you'll need to restart your phone
-
 Alternatives:
 
 When the app was developed, no good alternative existed.
